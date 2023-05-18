@@ -1,4 +1,4 @@
-# jilfond
+# Search for employees (Vue3, Vuex)
 
 ## Project setup
 ```
